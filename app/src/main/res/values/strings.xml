@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">HeartPulse</string>
+
+    <!-- Main Activity Strings -->
+    <!-- Status button strings -->
+    <string name="btn_status_waiting">Press the heart to measure your pulse</string>
+    <string name="btn_status_recording">Recording audio...</string>
+    <string name="btn_status_processing">Calculating your pulse</string>
+    <string name="btn_status_completed">Your pulse is </string>
+
+    <!-- Settings -->
+    <string name="recording_file" translatable="false">heartRecording</string>
 </resources>
